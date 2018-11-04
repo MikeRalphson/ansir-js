@@ -1,3 +1,6 @@
+*.ans
+*.png
+
 # Logs
 logs
 *.log
