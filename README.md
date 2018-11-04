@@ -9,6 +9,8 @@ Similar to oldschool ANSI art, we use UTF-8 block characters and standard termin
 
 Supports both the basic and extended ANSI color escape sequences. Note: Full 24-bit RGB escape sequences currently not supported.
 
+A utility `conv.js` can be used to convert JPEGs etc to PNG format.
+
 ### Installation
 
     npm install -g ansir
